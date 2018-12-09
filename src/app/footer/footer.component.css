@@ -1,8 +1,11 @@
 b {
   font-size: 12px;
 }
-.content, #social {
+#social, footer {
   text-align: center;
+}
+ul {
+  margin: 0 auto;
 }
 #social img {
   padding: .3rem 0;
@@ -10,15 +13,8 @@ b {
   height: 30px;
   border: 1px solid #777;
   border-radius: 50%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 75%;
-  text-indent: 100%;
-  overflow: hidden;
-  white-space: nowrap;
   margin-bottom: 1.75em;
   margin-right: 1px;
-
 }
 ul {
   list-style-type: none;

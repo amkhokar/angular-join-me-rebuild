@@ -21,6 +21,9 @@
   position: absolute;
   color: white;
 }
+#log-in-link:hover {
+  color: orange;
+}
 #fixedText, #rotatingText{
   font-size: 80px;
   font-weight: 900;
@@ -28,7 +31,7 @@
   text-align: center;
   display: block;
   position: absolute;
-  top: 50%;
+  top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
@@ -36,21 +39,22 @@
 #rotatingText{
   margin-top: 1.25em;
 }
-
-#text-container {
-  margin-bottom: 1.25em;
-}
 .left-box-text, .right-box-text {
+  bottom: 1%;
   min-height: 215px;
-  bottom: 1px;
   padding: 2em;
-  border-radius: 6px;
   background-color: rgba(0,0,0,0.5);
   text-align: center;
   color: white;
   font-size: 2rem;
   font-weight: 100;
   position: absolute;
+}
+.left-box-text {
+  left: 40%;
+}
+.right-box-text {
+  right: 40%;
 }
 #start-button{
   background-color: rgb(255, 142, 0);
