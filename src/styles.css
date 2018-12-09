@@ -1,13 +1,10 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
 
-h2 {
+h2, h3 {
   font-family: "Rubik", sans-serif;
-  font-weight: 300;
   color: #333;
 }
 
 p, li  {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 300;
-  font-size: 12px;
 }
