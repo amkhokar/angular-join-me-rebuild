@@ -3,7 +3,7 @@
 #### By _**Ahmed Khokar**_
 ## Description
 This is a two week site rebuild using Angular and Firebase.
-Firebase Link: https://amkhokar.firebaseapp.com
+Firebase Link: https://codereviewangular.firebaseapp.com/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
@@ -13,6 +13,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 3. Static Footer with links
 4. Transition CSS with SetInterval
 5. Additional styling to imitate Join.me
+6. Deployment to firebase.
+7. Connected to a firebase database.
 
 ## Setup Instructions
 1. Clone this repository.
