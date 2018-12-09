@@ -6,6 +6,17 @@ b {
 }
 ul {
   margin: 0 auto;
+  padding-top: 50px;
+  list-style-type: none;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+li {
+  line-height: 1.384;
+  color: #333;
+  padding: 0.3rem 0;
+}
+li:hover {
+  color: orange;
 }
 #social img {
   padding: .3rem 0;
@@ -15,9 +26,6 @@ ul {
   border-radius: 50%;
   margin-bottom: 1.75em;
   margin-right: 1px;
-}
-ul {
-  list-style-type: none;
 }
 a {
   color: #333;
