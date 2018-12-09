@@ -4,6 +4,21 @@
 #social {
   text-align: center;
 }
+
+#social img {
+  padding: .3rem 0;
+  width: 30px;
+  height: 30px;
+  border: 1px solid #777;
+  border-radius: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 75%;
+  text-indent: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  margin-bottom: 1.75em;
+}
 ul {
   margin: auto;
   list-style-type: none;
