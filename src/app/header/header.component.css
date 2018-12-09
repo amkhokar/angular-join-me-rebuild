@@ -4,7 +4,8 @@
 }
 
 .header-container {
-  background-image: url('/src/assets/img/background.jpg');
+  background-image: '../assets/img/background.jpg';
+  background-size: cover;
 }
 
 
