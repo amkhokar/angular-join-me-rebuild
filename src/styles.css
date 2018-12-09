@@ -1,13 +1,9 @@
-@import '~bootstrap/dist/css/bootstrap.min.css'
+@import '~bootstrap/dist/css/bootstrap.min.css';
 
 body {
   font-family: Rubik, sans-serif;
 }
 
-p  {
+p, li  {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-ul {
-  list-style: none;
 }

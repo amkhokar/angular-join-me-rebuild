@@ -1,5 +1,15 @@
 .content {
   text-align: center;
 }
-
-
+ul {
+  list-style-type: none;
+  margin-left: 500px auto;
+  display: inline-block;
+  margin-right: 5%;
+}
+a {
+  color: black;
+}
+a:hover{
+  color: orange;
+}
